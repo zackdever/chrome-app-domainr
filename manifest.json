@@ -1,0 +1,16 @@
+{
+  "name": "Domainr",
+  "description": "go to http://domai.nr/",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "launch": {
+      "web_url": "http://domai.nr/"
+    }
+  },
+  "icons": {
+    "16": "icon_16.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+  }
+}
